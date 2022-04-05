@@ -1,7 +1,7 @@
 """
 Inventory host values to stdout
 Stack overflow: https://stackoverflow.com/questions/3103178/how-to-get-the-system-info-with-python
-
+use platfrom.dist() as version test case. deprecated in 5 & removed in 8
 """
 import platform
 import socket
